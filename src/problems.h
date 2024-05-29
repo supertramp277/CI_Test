@@ -12,6 +12,7 @@ int findOdd(const std::vector<int> &numbers);
 std::string encode(const std::string &str);
 std::string decode(const std::string &str);
 std::unordered_set<std::string> bananas(const std::string& s);
+//add commmments here
 
 #endif // PROBLEMS_H
 
